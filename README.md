@@ -1,5 +1,5 @@
 <h1 align="center">
-## :computer: LarissaSolino - Engenharia de Software
+   :computer: ## :LarissaSolino - Engenharia de Software
 </h1>
 ## :book: Sejam Bem vindos :)
 <p> 
@@ -7,7 +7,7 @@ Especialista em Finanças e mercados - Universidade Cândido Mendes (2019) ; Bac
 Apaixonada por programação estudo as seguintes Tecnologias: JavaScript,Css,Html, Python,
 Java,MySQL,PostgreSQL.
 Conhecimentos nos Frameworks como Spring Boot,Angular 8 +.
-    
+<p>   
     
  ## :iphone: Tecnologias e ferramentas:
  
