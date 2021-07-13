@@ -1,5 +1,5 @@
 <h1 align="center">
-  :computer: LarissaSolino - Engenharia de Software
+## :computer: LarissaSolino - Engenharia de Software
 </h1>
 ## :book: Sejam Bem vindos :)
 <p> 
