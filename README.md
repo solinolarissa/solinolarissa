@@ -1,5 +1,5 @@
 <h1 align="center">
- :computer:LarissaSolino - Engenharia de Software
+ :computer:LarissaSolino - Desevolvedora Full Stack
 </h1>
  :book: Sejam Bem vindos :
 <p> 
@@ -12,18 +12,18 @@ Conhecimentos nos Frameworks como Spring Boot,Angular 8 +.
  ## :iphone: Tecnologias e ferramentas:
  
 <ul>
-    <li>Java</li>
+   <li>Java</li>
   	<li>SpringBoot</li>
   	<li>MySQL</li>
   	<li>PostGreSQL</li>
   	<li>HTML</li>
   	<li>CSS</li>
   	<li>Node.js</li>
-    <li>Angular</li>
+   <li>Angular</li>
   	<li>JavaScript</li>
   	<li>Flutter</li>
-    <li>R</li>
-    <li>Python</li>
+   <li>R</li>
+   <li>Python</li>
 </ul>
 
 
