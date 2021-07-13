@@ -1,7 +1,7 @@
 <h1 align="center">
- ## :computer:LarissaSolino - Engenharia de Software
+ :computer:LarissaSolino - Engenharia de Software
 </h1>
- ## :book: Sejam Bem vindos :
+ :book: Sejam Bem vindos :
 <p> 
 Especialista em Finanças e mercados - Universidade Cândido Mendes (2019) ; Bacharel em Ciências Contábeis - Universidade Cruzeiro do Sul(2019); Marketing-Universidade Paulista (UNIP) - (2018) e atualmente sou discente no curso de estatística na UFG.
 Apaixonada por programação estudo as seguintes Tecnologias: JavaScript,Css,Html, Python,
