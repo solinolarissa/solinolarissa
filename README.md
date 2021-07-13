@@ -1,6 +1,3 @@
-<h2 align="center">
-    <img alt="preview application" src="https://i.imgur.com/X23oEk3.png" width="1200px"/>
-</h2>
 <h1 align="center">
   :computer: LarissaSolino - Engenharia de Software
 </h1>
